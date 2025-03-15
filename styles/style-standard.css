@@ -1,0 +1,195 @@
+body {
+    background-color: #3d3d3d;
+    color: #ffffff;
+    font-family: 'Arial', 'sans-serif';
+}
+
+body h1 {
+    text-align: center;
+    font-size: 26pt;
+    margin: 0 0 0 0;
+}
+.container {
+    padding: 5px 5px 5px 5px;
+    background-color: #3d3d3d;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+div.server_status {
+    margin: 0 auto;
+    width: 25%;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+div.server_status#unkonwn {
+    background-color: rgba(128, 128, 128, 0.5);
+}
+
+div.server_status#offline {
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+div.server_status#online {
+    background-color: rgba(0, 255, 0, 0.75);
+}
+
+div.server_status#maintenance {
+    background-color: rgba(255, 165, 0, 0.6);
+}
+
+span.status_title {
+    text-transform: uppercase;
+}
+
+.offline {
+    color: red;
+}
+
+.online {
+    color: green;
+}
+
+.maintenance {
+    color: orange;
+}
+
+.unknown {
+    color: gray;
+}
+
+div.server_status_selector {
+    margin: 0 auto;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.server_status_button {
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+div#log {
+    margin: 0 auto;
+    padding: 10px 10px 10px 10px;
+    width: 95%;
+    height: 700px;
+    overflow: auto;
+    text-align: left;
+    background-color: #000000;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    font-family: 'Courier New', 'monospace';
+}
+
+div h3 {
+    text-align: center;
+    font-size: 16pt;
+    margin: 0 0 10px 0;
+}
+
+.main-container {
+    display: flex;             /* Flexbox für den Container */
+    gap: 10px;                 /* Abstand zwischen den beiden Containern */
+}
+
+.controls {
+    flex: 0 0 25%;             /* Setzt die Breite des Bereichs für Server Controls auf 25% */
+    margin: 0;                 /* Entfernt unnötige Margin */
+}
+
+.log {
+    flex: 0 0 75%;             /* Setzt die Breite des Bereichs für Server Log auf 75% */
+    margin: 0;                 /* Entfernt unnötige Margin */
+}
+
+.container {
+    padding: 10px;             /* Fügt inneren Abstand zu den Containern hinzu */
+    box-sizing: border-box;    /* Stellt sicher, dass Padding in der Breite enthalten ist */
+}
+
+.center {
+    text-align: center;
+    margin: 0 auto;
+}
+
+div.center button {
+    margin: 5px;
+    border-radius: 20px;
+    padding: 10px 10px 10px 30px; /* Add left padding for the symbol */
+    text-align: left; /* Align text to the left */
+    width: 80%;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+    color: #ffffff;
+    border: none;
+    position: relative; /* Required for positioning the symbol */
+}
+
+div.center button::before {
+    content: '★'; /* Add your desired symbol here */
+    position: absolute;
+    left: 10px; /* Position the symbol */
+    font-size: 14px; /* Adjust the size of the symbol */
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+div.center button#start {
+    background-color: rgb(0, 190, 0);
+}
+
+div.center button#stop {
+    background-color: rgb(190, 0, 0);
+}
+
+div.center button#restart {
+    background-color: rgb(190, 124, 0);
+}
+
+/* COLORS */
+
+.color-bold {
+    font-weight: bold;
+}
+
+.color-italic {
+    font-style: italic;
+}
+
+.color-red {
+    color: red;
+}
+
+.color-green {
+    color: green;
+}
+
+.color-orange {
+    color: orange;
+}
+
+.color-gray {
+    color: gray;
+}
+
+.color-purple {
+    color: #9370DB;
+}
+
+.color-light_blue {
+    color: #0096c8;
+}

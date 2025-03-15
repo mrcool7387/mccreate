@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Title -->
+    <title>Minecraft Create Server</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+    <!-- Styles -->
+    <link rel="stylesheet" type="text/css" href="styles/style-standard.css" />
+
+    <!-- Scripts -->
+    <script src="script/main.js"></script>
+    <script src="script/request.js"></script>
+</head>
+
+<body>
+    <div class="container" id="title">
+        <h1>Minecraft Create Server</h1>
+        <div class="server_status" id="unknown">
+            <span id="status_title" class="unknown">Unknown</span>
+        </div>
+    </div>
+
+    <!-- Container, der beide Haupt-div nebeneinander anzeigt -->
+    <div class="main-container">
+        <!-- Bereich für Server Controls (25%) -->
+        <div class="container controls" style="margin: 5px;">
+            <h3>Server Controls</h3>
+            <div class="center">
+                <button id="start" onclick="startServer()">Request Start</button><br>
+                <button id="stop" onclick="stopServer()">Request Stop</button><br>
+                <button id="restart" onclick="restartServer()">Request Restart</button>
+            </div>
+        </div>
+
+        <!-- Bereich für Server Log (75%) -->
+        <div class="container log" style="margin: 5px;">
+            <h3>Server Log</h3>
+            <div id="log">
+                Log will be here...
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
