@@ -18,11 +18,24 @@ function fetchServerLog() {
         .catch(error => console.error('Error fetching server log:', error));
 }
 
+function fetchStatus() {
+    fetch('./status')
+        .then(response => response.text())
+        .then(data => {
+            const status = document.querySelector('span#status_title');
+            status.innerHTML = data.replace(/\n/g, '').lower();
+            status.className = data.replace(/\n/g, '').lower();
+        })
+        .catch(error => console.error('Error fetching status:', error));
+}
+
 // Call the function to fetch and display the server log
 fetchServerLog();
+fetchStatus();
 
 // Optionally, you can set an interval to refresh the log periodically
 setInterval(fetchServerLog, 5000); // Refresh every 5 seconds
+setInterval(fetchStatus, 5000);
 
 function colorizeLog(log) {
     const config = [
