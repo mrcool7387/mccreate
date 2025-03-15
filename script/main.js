@@ -13,7 +13,7 @@ function fetchServerLog() {
         .then(response => response.text())
         .then(data => {
             const logContainer = document.querySelector('div#log');
-            logContainer.innerHTML = colorizeLog(data).replace(/\n/g, '<br>');
+            logContainer.innerHTML = colorizeLog(data).replace(/\n/g, '<br>').replace(/</g, '&lt').replace(/>/g, '&gt');
         })
         .catch(error => console.error('Error fetching server log:', error));
 }
