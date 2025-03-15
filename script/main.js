@@ -26,7 +26,7 @@ function fetchStatus() {
             status.innerHTML = data.replace(/\n/g, '').toLowerCase();
 
             const div = document.querySelector('div.status_title')
-            status.class = data.replace(/\n/g, '').toLowerCase();
+            status.id = data.replace(/\n/g, '').toLowerCase();
         })
         .catch(error => console.error('Error fetching status:', error));
 }
