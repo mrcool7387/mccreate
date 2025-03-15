@@ -1,112 +1,436 @@
-[12:00:00] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[12:00:01] [Server thread/INFO]: Loading properties
-[12:00:01] [Server thread/INFO]: Default game type: SURVIVAL
-[12:00:01] [Server thread/INFO]: Generating keypair
-[12:00:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:00:01] [Server thread/INFO]: Using default channel type
-[12:00:02] [Server thread/INFO]: Preparing level "world"
-[12:00:02] [Server thread/INFO]: Preparing start region for level 0
-[12:00:02] [Server thread/DEBUG]: Debugging start region preparation
-[12:00:03] [Server thread/INFO]: Done (1.234s)! For help, type "help"
-[12:00:03] [Server thread/WARN]: Low memory warning
-[12:00:04] [Server thread/INFO]: UUID of player Alex is 123e4567-e89b-12d3-a456-426614174000
-[12:00:04] [Server thread/INFO]: Alex[/192.168.1.2:12345] logged in with entity id 123 at (0.0, 64.0, 0.0)
-[12:00:04] [Server thread/INFO]: Alex joined the game
-[12:00:05] [Server thread/ERROR]: Failed to load plugin 'examplePlugin'
-[12:00:10] [Server thread/INFO]: Saving the game (this may take a moment!)
-[12:00:10] [Server thread/INFO]: Saved the game
-[12:00:20] [Server thread/INFO]: Alex lost connection: Disconnected
-[12:00:20] [Server thread/INFO]: Alex left the game
-[12:00:25] [Server thread/DEBUG]: Debugging player disconnection
-[12:00:30] [Server thread/INFO]: Stopping the server
-[12:00:30] [Server thread/INFO]: Saving players
-[12:00:30] [Server thread/INFO]: Saving worlds
-[12:00:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[12:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:00:31] [Server thread/DEBUG]: Server shutdown complete
-[12:00:00] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[12:00:01] [Server thread/INFO]: Loading properties
-[12:00:01] [Server thread/INFO]: Default game type: SURVIVAL
-[12:00:01] [Server thread/INFO]: Generating keypair
-[12:00:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:00:01] [Server thread/INFO]: Using default channel type
-[12:00:02] [Server thread/INFO]: Preparing level "world"
-[12:00:02] [Server thread/INFO]: Preparing start region for level 0
-[12:00:02] [Server thread/DEBUG]: Debugging start region preparation
-[12:00:03] [Server thread/INFO]: Done (1.234s)! For help, type "help"
-[12:00:03] [Server thread/WARN]: Low memory warning
-[12:00:04] [Server thread/INFO]: UUID of player Alex is 123e4567-e89b-12d3-a456-426614174000
-[12:00:04] [Server thread/INFO]: Alex[/192.168.1.2:12345] logged in with entity id 123 at (0.0, 64.0, 0.0)
-[12:00:04] [Server thread/INFO]: Alex joined the game
-[12:00:05] [Server thread/ERROR]: Failed to load plugin 'examplePlugin'
-[12:00:10] [Server thread/INFO]: Saving the game (this may take a moment!)
-[12:00:10] [Server thread/INFO]: Saved the game
-[12:00:20] [Server thread/INFO]: Alex lost connection: Disconnected
-[12:00:20] [Server thread/INFO]: Alex left the game
-[12:00:25] [Server thread/DEBUG]: Debugging player disconnection
-[12:00:30] [Server thread/INFO]: Stopping the server
-[12:00:30] [Server thread/INFO]: Saving players
-[12:00:30] [Server thread/INFO]: Saving worlds
-[12:00:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[12:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:00:31] [Server thread/DEBUG]: Server shutdown complete
-[12:00:00] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[12:00:01] [Server thread/INFO]: Loading properties
-[12:00:01] [Server thread/INFO]: Default game type: SURVIVAL
-[12:00:01] [Server thread/INFO]: Generating keypair
-[12:00:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:00:01] [Server thread/INFO]: Using default channel type
-[12:00:02] [Server thread/INFO]: Preparing level "world"
-[12:00:02] [Server thread/INFO]: Preparing start region for level 0
-[12:00:02] [Server thread/DEBUG]: Debugging start region preparation
-[12:00:03] [Server thread/INFO]: Done (1.234s)! For help, type "help"
-[12:00:03] [Server thread/WARN]: Low memory warning
-[12:00:04] [Server thread/INFO]: UUID of player Alex is 123e4567-e89b-12d3-a456-426614174000
-[12:00:04] [Server thread/INFO]: Alex[/192.168.1.2:12345] logged in with entity id 123 at (0.0, 64.0, 0.0)
-[12:00:04] [Server thread/INFO]: Alex joined the game
-[12:00:05] [Server thread/ERROR]: Failed to load plugin 'examplePlugin'
-[12:00:10] [Server thread/INFO]: Saving the game (this may take a moment!)
-[12:00:10] [Server thread/INFO]: Saved the game
-[12:00:20] [Server thread/INFO]: Alex lost connection: Disconnected
-[12:00:20] [Server thread/INFO]: Alex left the game
-[12:00:25] [Server thread/DEBUG]: Debugging player disconnection
-[12:00:30] [Server thread/INFO]: Stopping the server
-[12:00:30] [Server thread/INFO]: Saving players
-[12:00:30] [Server thread/INFO]: Saving worlds
-[12:00:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[12:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:00:31] [Server thread/DEBUG]: Server shutdown complete
-[12:00:00] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[12:00:01] [Server thread/INFO]: Loading properties
-[12:00:01] [Server thread/INFO]: Default game type: SURVIVAL
-[12:00:01] [Server thread/INFO]: Generating keypair
-[12:00:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:00:01] [Server thread/INFO]: Using default channel type
-[12:00:02] [Server thread/INFO]: Preparing level "world"
-[12:00:02] [Server thread/INFO]: Preparing start region for level 0
-[12:00:02] [Server thread/DEBUG]: Debugging start region preparation
-[12:00:03] [Server thread/INFO]: Done (1.234s)! For help, type "help"
-[12:00:03] [Server thread/WARN]: Low memory warning
-[12:00:04] [Server thread/INFO]: UUID of player Alex is 123e4567-e89b-12d3-a456-426614174000
-[12:00:04] [Server thread/INFO]: Alex[/192.168.1.2:12345] logged in with entity id 123 at (0.0, 64.0, 0.0)
-[12:00:04] [Server thread/INFO]: Alex joined the game
-[12:00:05] [Server thread/ERROR]: Failed to load plugin 'examplePlugin'
-[12:00:10] [Server thread/INFO]: Saving the game (this may take a moment!)
-[12:00:10] [Server thread/INFO]: Saved the game
-[12:00:20] [Server thread/INFO]: Alex lost connection: Disconnected
-[12:00:20] [Server thread/INFO]: Alex left the game
-[12:00:25] [Server thread/DEBUG]: Debugging player disconnection
-[12:00:30] [Server thread/INFO]: Stopping the server
-[12:00:30] [Server thread/INFO]: Saving players
-[12:00:30] [Server thread/INFO]: Saving worlds
-[12:00:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[12:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:00:31] [Server thread/DEBUG]: Server shutdown complete
+[15März2025 14:37:05.429] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[15März2025 14:37:05.438] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.11.0-19-generic
+[15März2025 14:37:13.739] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[15März2025 14:37:13.791] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
+[15März2025 14:37:13.850] [main/INFO] [mixin-transmog/]: crimes against java were committed
+[15März2025 14:37:13.929] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[15März2025 14:37:14.364] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/server/.minecraft/mods/Connector-1.0.0-beta.46+1.20.1.jar%23169%23172!/ Service=ModLauncher Env=SERVER
+[15März2025 14:37:15.527] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/server/.minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[15März2025 14:37:15.591] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/server/.minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[15März2025 14:37:15.603] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/server/.minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[15März2025 14:37:15.606] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/server/.minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[15März2025 14:37:17.478] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[15März2025 14:37:17.481] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: architectury. Using Mod File: /home/server/.minecraft/mods/architectury-9.2.14-forge.jar
+[15März2025 14:37:17.481] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 57 dependencies adding them to mods collection
+[15März2025 14:37:20.625] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 0 candidates to load
+[15März2025 14:37:30.363] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
+[15März2025 14:37:33.069] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[15März2025 14:37:34.309] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[15März2025 14:37:34.335] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[15März2025 14:37:34.371] [main/WARN] [mixin/]: Reference map 'createdeco-forge-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[15März2025 14:37:34.712] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
+[15März2025 14:37:34.719] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[15März2025 14:37:34.751] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[15März2025 14:37:35.475] [main/WARN] [mixin/]: Reference map 'CreateLiquidFuel.refmap.json' for createliquidfuel.mixins.json could not be read. If this is a development environment you can ignore this message
+[15März2025 14:37:35.675] [main/WARN] [mixin/]: Reference map 'createcobblestone-common-refmap.json' for createcobblestone-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[15März2025 14:37:35.943] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[15März2025 14:37:36.124] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[15März2025 14:37:38.839] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
+[15März2025 14:37:38.840] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
+[15März2025 14:37:38.841] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1
+[15März2025 14:37:38.882] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[15März2025 14:37:38.889] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[15März2025 14:37:38.889] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1
+[15März2025 14:37:41.031] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
+[15März2025 14:37:41.032] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin from mod sliceanddice
+[15März2025 14:37:43.865] [main/WARN] [mixin/]: Error loading class: xfacthd/framedblocks/common/blockentity/doubled/FramedAdjustableDoubleBlockEntity (java.lang.ClassNotFoundException: xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity)
+[15März2025 14:37:43.867] [main/WARN] [mixin/]: @Mixin target xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity was not found createbigcannons.mixins.json:compat.FramedAdjustableDoubleBlockEntityAccessor from mod createbigcannons
+[15März2025 14:37:44.174] [main/WARN] [mixin/]: Error loading class: com/drmangotea/tfmg/blocks/machines/metal_processing/blast_furnace/BlastFurnaceOutputBlockEntity (java.lang.ClassNotFoundException: com.drmangotea.tfmg.blocks.machines.metal_processing.blast_furnace.BlastFurnaceOutputBlockEntity)
+[15März2025 14:37:44.371] [main/WARN] [mixin/]: Error loading class: earth/terrarium/botarium/forge/BotariumForge (java.lang.ClassNotFoundException: earth.terrarium.botarium.forge.BotariumForge)
+[15März2025 14:37:44.371] [main/WARN] [mixin/]: @Mixin target earth.terrarium.botarium.forge.BotariumForge was not found create_central_kitchen.mixins.json:common.botarium.BotariumForgeMixin from mod create_central_kitchen
+[15März2025 14:37:44.374] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/integration/MoreRedIntegration (java.lang.ClassNotFoundException: dan200.computercraft.shared.integration.MoreRedIntegration)
+[15März2025 14:37:44.375] [main/WARN] [mixin/]: @Mixin target dan200.computercraft.shared.integration.MoreRedIntegration was not found create_central_kitchen.mixins.json:common.computercraft.MoreRedIntegrationMixin from mod create_central_kitchen
+[15März2025 14:37:44.569] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/copper_pot/CopperPotBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity)
+[15März2025 14:37:44.569] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.CopperPotBlockEntityMixin from mod create_central_kitchen
+[15März2025 14:37:44.654] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
+[15März2025 14:37:44.654] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityAccessor from mod create_central_kitchen
+[15März2025 14:37:44.658] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
+[15März2025 14:37:44.658] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityMixin from mod create_central_kitchen
+[15März2025 14:37:44.661] [main/WARN] [mixin/]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
+[15März2025 14:37:44.661] [main/WARN] [mixin/]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin from mod create_central_kitchen
+[15März2025 14:37:44.741] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[15März2025 14:37:44.742] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[15März2025 14:37:45.249] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15März2025 14:37:47.178] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (48.99 s after launch)
+[15März2025 14:37:47.877] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin from mod modernfix should be final
+[15März2025 14:37:47.878] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin from mod modernfix should be final
+[15März2025 14:37:50.216] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 3032 milliseconds
+[15März2025 14:37:55.101] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[15März2025 14:37:55.889] [modloading-worker-0/INFO] [Create Deco/]: Registering items for Create Deco
+[15März2025 14:37:56.063] [modloading-worker-0/INFO] [Create Deco/]: Registering blocks for Create Deco
+[15März2025 14:37:56.170] [modloading-worker-0/INFO] [Create: Numismatics/]: Create: Numismatics 1.0.11+forge-mc1.20.1 initializing! Create version: 0.5.1j on platform: FORGE
+[15März2025 14:37:56.194] [modloading-worker-0/INFO] [Create: Numismatics/]: Registering items for Create: Numismatics
+[15März2025 14:37:56.275] [modloading-worker-0/INFO] [Create: Numismatics/]: Registering blocks for Create: Numismatics
+[15März2025 14:37:56.342] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.3 has initialized, ready to support your Create add-ons!
+[15März2025 14:37:56.500] [modloading-worker-0/INFO] [Create: Interiors/]: Create: Interiors v0.5.6 initializing! Create version: 0.5.1h on platform: Forge
+[15März2025 14:37:56.507] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[15März2025 14:37:56.508] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[15März2025 14:37:56.601] [modloading-worker-0/INFO] [Create: Trading Floor/]: Create: Trading Floor initializing! Create version: 0.5.1f on platform: Forge
+[15März2025 14:37:56.601] [modloading-worker-0/INFO] [Create: Trading Floor/]: Registering all Create: Trading Floor entries
+[15März2025 14:37:56.623] [modloading-worker-0/INFO] [Create: Trading Floor/]: Registering Particle Emitters for: Create: Trading Floor
+[15März2025 14:37:56.634] [modloading-worker-0/INFO] [Create: Trading Floor/]: Finished Initialisation For Mod: trading_floor
+[15März2025 14:37:57.351] [modloading-worker-0/INFO] [Create cobblestone/]: Create cobblestone initializing! Create version: 0.5.1f on platform: Forge
+[15März2025 14:37:57.353] [modloading-worker-0/INFO] [Create cobblestone/]: Registering packets for Create cobblestone
+[15März2025 14:37:57.376] [modloading-worker-0/INFO] [Create cobblestone/]: Registering blocks for Create cobblestone
+[15März2025 14:37:57.383] [modloading-worker-0/INFO] [Create cobblestone/]: Registering blockEntities for Create cobblestone
+[15März2025 14:37:57.568] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[15März2025 14:37:57.674] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
+[15März2025 14:37:57.675] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
+[15März2025 14:37:57.953] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[15März2025 14:37:57.955] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/69a65f20acde32448da097b16eacfce9
+[15März2025 14:37:57.957] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/69d73e101ecb38b59cc59ce369f9f0e6
+[15März2025 14:37:57.957] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/fcf1d4bbbc3b340daddecfd8389e586f
+[15März2025 14:37:58.066] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/7ea7435aa82d37fbbe7321ccd48bb6b2
+[15März2025 14:37:58.129] [MrJulsen/INFO] [DragonLib/]:                              +++ 🐉 +++                             
+[15März2025 14:37:58.132] [MrJulsen/INFO] [DragonLib/]: ---------------------------------------------------------------------
+[15März2025 14:37:58.132] [MrJulsen/INFO] [DragonLib/]:             Loaded DragonLib v1.20.1-2.2.24 by MrJulsen!            
+[15März2025 14:37:58.132] [MrJulsen/INFO] [DragonLib/]:                        Minecraft Forge 1.20.1                       
+[15März2025 14:37:58.133] [MrJulsen/INFO] [DragonLib/]: 
+[15März2025 14:37:58.133] [MrJulsen/INFO] [DragonLib/]:                Discord: https://discord.gg/AeSbNgvc7f               
+[15März2025 14:37:58.133] [MrJulsen/INFO] [DragonLib/]:                            GitHub: unknown                           
+[15März2025 14:37:58.134] [MrJulsen/INFO] [DragonLib/]:   Bug Reports: https://github.com/MisterJulsen/MC-DragonLib2/issues  
+[15März2025 14:37:58.134] [MrJulsen/INFO] [DragonLib/]: ---------------------------------------------------------------------
+[15März2025 14:37:58.134] [MrJulsen/INFO] [DragonLib/]:                              +++ 🐉 +++                             
+[15März2025 14:37:58.159] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
+[15März2025 14:37:58.161] [modloading-worker-0/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
+[15März2025 14:37:58.283] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id createrailwaysnavigator:crn_network/24de284ed1a534cfb2664200bfb3b1e3
+[15März2025 14:37:58.283] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id createrailwaysnavigator:crn_network/b977ce0284d33fc79f13f0af88be87d7
+[15März2025 14:37:58.317] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[15März2025 14:37:58.319] [modloading-worker-0/INFO] [libIPN/]: [libIPN] libIPN - init in Kotlin
+[15März2025 14:37:58.401] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Initializing Create Radar!
+[15März2025 14:37:58.406] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering Items!
+[15März2025 14:37:58.409] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering CBC Compat Items!
+[15März2025 14:37:58.435] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering blocks!
+[15März2025 14:37:58.577] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering block entity types!
+[15März2025 14:37:58.582] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering CreativeTabs!
+[15März2025 14:37:58.583] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering Lang!
+[15März2025 14:37:58.650] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering ContraptionType!
+[15März2025 14:37:58.916] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
+[15März2025 14:37:59.211] [modloading-worker-0/INFO] [creategoggles/]: CreateGoggles init
+[15März2025 14:37:59.212] [modloading-worker-0/INFO] [creategoggles/]: cgblocks
+[15März2025 14:37:59.213] [modloading-worker-0/INFO] [creategoggles/]: cgitems
+[15März2025 14:37:59.236] [modloading-worker-0/INFO] [creategoggles/]: cgblockentities
+[15März2025 14:37:59.240] [modloading-worker-0/INFO] [creategoggles/]: ResourceKey[minecraft:trim_pattern / creategoggles:goggle]
+[15März2025 14:37:59.241] [modloading-worker-0/INFO] [creategoggles/]: ResourceKey[minecraft:trim_material / creategoggles:goggle_material]
+[15März2025 14:37:59.241] [modloading-worker-0/INFO] [creategoggles/]: ResourceKey[minecraft:root / minecraft:trim_pattern]
+[15März2025 14:37:59.253] [modloading-worker-0/INFO] [creategoggles/]: CGItemModifiers register false
+[15März2025 14:37:59.304] [modloading-worker-0/INFO] [creategoggles/]: CreateGogglesForge init
+[15März2025 14:37:59.336] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
+[15März2025 14:37:59.413] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[15März2025 14:37:59.416] [modloading-worker-0/INFO] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Starting...
+[15März2025 14:37:59.416] [modloading-worker-0/WARN] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Not supported on dedicated server!
+[15März2025 14:37:59.646] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[15März2025 14:37:59.646] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
+[15März2025 14:38:00.973] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 0 milliseconds
+[15März2025 14:38:00.981] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
+[15März2025 14:38:00.982] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
+[15März2025 14:38:00.982] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
+[15März2025 14:38:00.983] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
+[15März2025 14:38:00.984] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
+[15März2025 14:38:00.984] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
+[15März2025 14:38:00.985] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
+[15März2025 14:38:00.986] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
+[15März2025 14:38:00.986] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
+[15März2025 14:38:01.257] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Capturing existing worldgen registries
+[15März2025 14:38:01.258] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Found 0 injected RegistryDataLoader worldgen registries
+[15März2025 14:38:02.805] [main/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Custom display sources registered!
+[15März2025 14:38:03.156] [main/INFO] [Create Deco/]: placard tooltip was null
+[15März2025 14:38:03.156] [main/INFO] [Create Deco/]: placard tooltip was null
+[15März2025 14:38:03.156] [main/INFO] [Create Deco/]: placard tooltip was null
+[15März2025 14:38:03.156] [main/INFO] [Create Deco/]: placard tooltip was null
+[15März2025 14:38:03.156] [main/INFO] [Create Deco/]: placard tooltip was null
+[15März2025 14:38:03.156] [main/INFO] [Create Deco/]: placard tooltip was null
+[15März2025 14:38:03.156] [main/INFO] [Create Deco/]: placard tooltip was null
+[15März2025 14:38:03.157] [main/INFO] [Create Deco/]: placard tooltip was null
+[15März2025 14:38:03.157] [main/INFO] [Create Deco/]: placard tooltip was null
+[15März2025 14:38:03.157] [main/INFO] [Create Deco/]: placard tooltip was null
+[15März2025 14:38:03.157] [main/INFO] [Create Deco/]: placard tooltip was null
+[15März2025 14:38:03.157] [main/INFO] [Create Deco/]: placard tooltip was null
+[15März2025 14:38:03.157] [main/INFO] [Create Deco/]: placard tooltip was null
+[15März2025 14:38:03.157] [main/INFO] [Create Deco/]: placard tooltip was null
+[15März2025 14:38:03.157] [main/INFO] [Create Deco/]: placard tooltip was null
+[15März2025 14:38:04.265] [Thread-1/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[15März2025 14:38:04.592] [modloading-worker-0/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Welcome to the CREATE RAILWAYS NAVIGATOR mod by MRJULSEN.
+[15März2025 14:38:04.594] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_jetpack] Starting version check at https://api.modrinth.com/updates/create-jetpack/forge_updates.json
+[15März2025 14:38:04.598] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[15März2025 14:38:04.621] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[15März2025 14:38:04.622] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[15März2025 14:38:04.622] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[15März2025 14:38:04.622] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[15März2025 14:38:04.622] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[15März2025 14:38:04.622] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[15März2025 14:38:04.623] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[15März2025 14:38:04.623] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[15März2025 14:38:04.623] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[15März2025 14:38:04.623] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[15März2025 14:38:04.672] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering Display Behaviors!
+[15März2025 14:38:04.678] [modloading-worker-0/INFO] [creategoggles/]: Create Goggles Setup
+[15März2025 14:38:04.681] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[15März2025 14:38:04.743] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[15März2025 14:38:04.751] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[15März2025 14:38:04.751] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[15März2025 14:38:04.758] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[15März2025 14:38:04.758] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[15März2025 14:38:04.760] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[15März2025 14:38:05.020] [main/ERROR] [Create cobblestone/]: Tried accessing generator NONE as item before initialized (world load), error below:
+[15März2025 14:38:05.020] [main/ERROR] [Create cobblestone/]: Cannot invoke "net.createcobblestone.data.GeneratorType.getId()" because "net.createcobblestone.data.GeneratorType.NONE" is null
+java.lang.NullPointerException: Cannot invoke "net.createcobblestone.data.GeneratorType.getId()" because "net.createcobblestone.data.GeneratorType.NONE" is null
+	at net.createcobblestone.blocks.MechanicalGeneratorBlockItem.m_7968_(MechanicalGeneratorBlockItem.java:63) ~[createcobblestone-1.4.4+forge-1.20.1-95.jar%23198!/:?]
+	at com.forsteri.createliquidfuel.core.DrainableFuelLoader.lambda$load$1(DrainableFuelLoader.java:19) ~[createliquidfuel-2.1.1-1.20.1.jar%23201!/:2.1.1-1.20.1]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at com.forsteri.createliquidfuel.core.DrainableFuelLoader.load(DrainableFuelLoader.java:18) ~[createliquidfuel-2.1.1-1.20.1.jar%23201!/:2.1.1-1.20.1]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at net.minecraftforge.fml.DeferredWorkQueue.lambda$makeRunnable$2(DeferredWorkQueue.java:81) ~[fmlcore-1.20.1-47.3.0.jar%23244!/:?]
+	at net.minecraftforge.fml.DeferredWorkQueue.makeRunnable(DeferredWorkQueue.java:76) ~[fmlcore-1.20.1-47.3.0.jar%23244!/:?]
+	at net.minecraftforge.fml.DeferredWorkQueue.lambda$runTasks$0(DeferredWorkQueue.java:60) ~[fmlcore-1.20.1-47.3.0.jar%23244!/:?]
+	at java.util.concurrent.ConcurrentLinkedDeque.forEach(ConcurrentLinkedDeque.java:1650) ~[?:?]
+	at net.minecraftforge.fml.DeferredWorkQueue.runTasks(DeferredWorkQueue.java:60) ~[fmlcore-1.20.1-47.3.0.jar%23244!/:?]
+	at net.minecraftforge.fml.core.ParallelTransition.lambda$finalActivityGenerator$2(ParallelTransition.java:35) ~[forge-1.20.1-47.3.0-universal.jar%23248!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraftforge.fml.ModWorkManager$SyncExecutor.driveOne(ModWorkManager.java:43) ~[fmlcore-1.20.1-47.3.0.jar%23244!/:?]
+	at net.minecraftforge.fml.ModWorkManager$DrivenExecutor.drive(ModWorkManager.java:28) ~[fmlcore-1.20.1-47.3.0.jar%23244!/:?]
+	at net.minecraftforge.fml.ModLoader.waitForTransition(ModLoader.java:224) ~[fmlcore-1.20.1-47.3.0.jar%23244!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$20(ModLoader.java:210) ~[fmlcore-1.20.1-47.3.0.jar%23244!/:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:210) ~[fmlcore-1.20.1-47.3.0.jar%23244!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$loadMods$15(ModLoader.java:190) ~[fmlcore-1.20.1-47.3.0.jar%23244!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.loadMods(ModLoader.java:190) ~[fmlcore-1.20.1-47.3.0.jar%23244!/:?]
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:31) ~[forge-1.20.1-47.3.0-universal.jar%23248!/:?]
+	at net.minecraft.server.Main.main(Main.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.0.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[15März2025 14:38:05.383] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[15März2025 14:38:05.383] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[15März2025 14:38:05.409] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[15März2025 14:38:05.410] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[15März2025 14:38:05.750] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[15März2025 14:38:05.784] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.JadeAddonsBase
+[15März2025 14:38:05.792] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[15März2025 14:38:05.792] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[15März2025 14:38:05.805] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[15März2025 14:38:05.809] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[15März2025 14:38:05.811] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[15März2025 14:38:06.681] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15März2025 14:38:07.268] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/server/.minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23243!/assets/.mcassetsroot' uses unexpected schema
+[15März2025 14:38:07.269] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/server/.minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23243!/data/.mcassetsroot' uses unexpected schema
+[15März2025 14:38:10.726] [Worker-Main-4/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag creategoggles:modifier/goggle_incompatible as it is missing following references: mekanism:mekasuit_helmet (from creategoggles-1.20.1-0.5.6-[FORGE].jar)
+[15März2025 14:38:10.813] [Worker-Main-2/INFO] [com.amronos.createaddoncompatibility.CreateAddonCompatibility/]: Adding modPriorities for AlmostUnified, this will not reflect in unify.json
+[15März2025 14:38:10.813] [Worker-Main-2/INFO] [com.amronos.createaddoncompatibility.CreateAddonCompatibility/]: Adding tags for AlmostUnified, this will not reflect in unify.json
+[15März2025 14:38:10.849] [Worker-Main-2/WARN] [AlmostUnified/]: The following tags are invalid and will be ignored: [forge:gems/amber, forge:ores/ruby, forge:storage_blocks/mithril, forge:storage_blocks/sulfur, forge:dusts/aluminum, forge:ores/elementium, forge:plates/cinnabar, forge:wires/coal_coke, forge:gears/amber, forge:raw_materials/platinum, forge:rods/aluminum, forge:dusts/coal, forge:storage_blocks/constantan, forge:gears/coal, forge:gems/elementium, forge:gems/aluminum, forge:wires/apatite, forge:ingots/diamond, forge:ores/graphite, forge:gems/obsidian, forge:gears/lumium, forge:storage_blocks/raw_uranium, forge:storage_blocks/raw_emerald, forge:storage_blocks/raw_silver, forge:dusts/fluorite, forge:rods/iridium, forge:gears/tin, forge:rods/obsidian, forge:gems/enderium, forge:storage_blocks/bronze, forge:dusts/sapphire, forge:raw_materials/lumium, forge:nuggets/apatite, forge:ores/bitumen, forge:storage_blocks/raw_invar, forge:storage_blocks/raw_lapis, forge:raw_materials/peridot, forge:dusts/ruby, forge:gems/apatite, forge:rods/cinnabar, forge:gears/potassium_nitrate, forge:rods/enderium, forge:plates/aluminum, forge:gears/chrome, forge:gems/steel, forge:nuggets/netherite, forge:dusts/aeternium, forge:gems/ruby, forge:dusts/elementium, forge:wires/lead, forge:gems/cinnabar, forge:ingots/tungsten, forge:rods/potassium_nitrate, forge:dusts/copper, forge:nuggets/platinum, forge:raw_materials/graphite, forge:raw_materials/aeternium, forge:rods/diamond, forge:ingots/constantan, forge:storage_blocks/tin, forge:gears/emerald, forge:plates/enderium, forge:raw_materials/netherite, forge:ingots/signalum, forge:storage_blocks/raw_peridot, forge:dusts/nickel, forge:wires/charcoal, forge:ingots/aluminum, forge:nuggets/invar, forge:rods/uranium, forge:plates/sapphire, forge:gears/ruby, forge:storage_blocks/raw_coal_coke, forge:rods/emerald, forge:nuggets/sapphire, forge:plates/fluorite, forge:raw_materials/uranium, forge:plates/elementium, forge:gears/iridium, forge:dusts/netherite, forge:rods/peridot, forge:raw_materials/mithril, forge:nuggets/fluorite, forge:nuggets/tin, forge:raw_materials/diamond, forge:wires/nickel, forge:raw_materials/enderium, forge:gears/tungsten, forge:plates/lead, forge:wires/signalum, forge:plates/chrome, forge:plates/coal_coke, forge:storage_blocks/aeternium, forge:gems/lumium, forge:storage_blocks/electrum, forge:gems/fluorite, forge:plates/lumium, forge:rods/graphite, forge:raw_materials/tin, forge:storage_blocks/raw_osmium, forge:storage_blocks/raw_graphite, forge:ingots/bitumen, forge:dusts/enderium, forge:gears/sulfur, forge:nuggets/obsidian, forge:gems/sapphire, forge:storage_blocks/raw_nickel, forge:gems/aeternium, forge:plates/apatite, forge:ingots/mithril, forge:dusts/cinnabar, forge:storage_blocks/charcoal, forge:rods/tungsten, forge:ingots/cinnabar, forge:ingots/enderium, forge:plates/signalum, forge:raw_materials/invar, forge:gems/iron, forge:ores/aluminum, forge:dusts/amber, forge:plates/charcoal, forge:wires/potassium_nitrate, forge:gears/cinnabar, forge:gems/chrome, forge:raw_materials/lapis, forge:raw_materials/constantan, forge:ingots/amber, forge:ores/enderium, forge:storage_blocks/signalum, forge:storage_blocks/elementium, forge:plates/bronze, forge:dusts/signalum, forge:gems/constantan, forge:ingots/lead, forge:dusts/osmium, forge:rods/constantan, forge:raw_materials/potassium_nitrate, forge:rods/nickel, forge:wires/cobalt, forge:ores/sapphire, forge:gears/gold, forge:storage_blocks/raw_bronze, forge:ores/nickel, forge:gems/uranium, forge:wires/tungsten, forge:raw_materials/aluminum, forge:raw_materials/bronze, forge:rods/tin, forge:dusts/lumium, forge:gears/iron, forge:plates/graphite, forge:dusts/platinum, forge:gears/brass, forge:gears/apatite, forge:dusts/iridium, forge:wires/graphite, forge:storage_blocks/raw_lead, forge:gems/peridot, forge:storage_blocks/raw_elementium, forge:dusts/silver, forge:ores/chrome, forge:gems/netherite, forge:ingots/sulfur, forge:plates/amber, forge:nuggets/emerald, forge:storage_blocks/raw_enderium, forge:storage_blocks/platinum, forge:gears/copper, forge:ores/aeternium, forge:ores/coal_coke, forge:ores/mithril, forge:ores/obsidian, forge:storage_blocks/raw_diamond, forge:raw_materials/electrum, forge:ingots/uranium, forge:wires/elementium, forge:rods/steel, forge:ingots/potassium_nitrate, forge:gears/lapis, forge:storage_blocks/raw_constantan, forge:wires/obsidian, forge:storage_blocks/cinnabar, forge:gems/sulfur, forge:ores/brass, forge:ores/lumium, forge:gears/signalum, forge:gears/silver, forge:plates/invar, forge:raw_materials/amber, forge:gems/invar, forge:nuggets/aluminum, forge:dusts/invar, forge:ingots/peridot, forge:ores/potassium_nitrate, forge:plates/mithril, forge:raw_materials/coal, forge:dusts/lapis, forge:gears/electrum, forge:gears/invar, forge:ores/netherite, forge:plates/tungsten, forge:wires/constantan, forge:ores/osmium, forge:storage_blocks/raw_cobalt, forge:ores/charcoal, forge:plates/lapis, forge:raw_materials/brass, forge:gems/zinc, forge:ingots/osmium, forge:nuggets/enderium, forge:rods/osmium, forge:rods/sapphire, forge:raw_materials/cobalt, forge:wires/aeternium, forge:gems/brass, forge:ores/fluorite, forge:dusts/mithril, forge:gems/coal_coke, forge:storage_blocks/steel, forge:storage_blocks/graphite, forge:dusts/lead, forge:gems/tin, forge:nuggets/lead, forge:gems/coal, forge:rods/charcoal, forge:ingots/lumium, forge:rods/lumium, forge:raw_materials/elementium, forge:dusts/bitumen, forge:storage_blocks/tungsten, forge:storage_blocks/raw_charcoal, forge:gears/diamond, forge:gears/osmium, forge:ingots/chrome, forge:rods/silver, forge:ores/invar, forge:dusts/tin, forge:gears/nickel, forge:rods/lead, forge:ores/peridot, forge:rods/chrome, forge:storage_blocks/cobalt, forge:plates/bitumen, forge:wires/steel, forge:storage_blocks/raw_sapphire, forge:gems/potassium_nitrate, forge:rods/fluorite, forge:dusts/sulfur, forge:ingots/silver, forge:gears/zinc, forge:storage_blocks/raw_fluorite, forge:ores/silver, forge:rods/elementium, forge:wires/sapphire, forge:nuggets/diamond, forge:storage_blocks/aluminum, forge:ores/uranium, forge:dusts/potassium_nitrate, forge:storage_blocks/raw_cinnabar, forge:nuggets/amber, forge:plates/coal, forge:wires/brass, forge:nuggets/potassium_nitrate, forge:storage_blocks/enderium, forge:wires/netherite, forge:plates/uranium, forge:ingots/apatite, forge:nuggets/charcoal, forge:dusts/electrum, forge:wires/diamond, forge:storage_blocks/raw_bitumen, forge:nuggets/coal_coke, forge:storage_blocks/invar, forge:gears/lead, forge:raw_materials/silver, forge:rods/lapis, forge:gears/aeternium, forge:ingots/nickel, forge:wires/fluorite, forge:nuggets/silver, forge:gears/mithril, forge:gems/silver, forge:wires/enderium, forge:ores/tungsten, forge:storage_blocks/raw_obsidian, forge:ores/tin, forge:storage_blocks/lead, forge:gears/cobalt, forge:raw_materials/signalum, forge:storage_blocks/potassium_nitrate, forge:ingots/cobalt, forge:plates/constantan, forge:raw_materials/ruby, forge:plates/ruby, forge:gears/bitumen, forge:wires/aluminum, forge:raw_materials/apatite, forge:ores/steel, forge:wires/zinc, forge:rods/invar, forge:nuggets/signalum, forge:raw_materials/osmium, forge:dusts/bronze, forge:raw_materials/charcoal, forge:rods/sulfur, forge:dusts/chrome, forge:storage_blocks/raw_potassium_nitrate, forge:gears/platinum, forge:ores/amber, forge:nuggets/elementium, forge:raw_materials/tungsten, forge:raw_materials/coal_coke, forge:plates/cobalt, forge:dusts/brass, forge:nuggets/mithril, forge:plates/iridium, forge:storage_blocks/raw_aluminum, forge:gems/osmium, forge:wires/bronze, forge:storage_blocks/nickel, forge:storage_blocks/raw_steel, forge:storage_blocks/raw_lumium, forge:dusts/emerald, forge:gears/aluminum, forge:wires/silver, forge:nuggets/sulfur, forge:ingots/graphite, forge:ingots/ruby, forge:ores/lead, forge:ingots/lapis, forge:storage_blocks/raw_netherite, forge:wires/iridium, forge:ores/iridium, forge:gems/mithril, forge:dusts/uranium, forge:wires/coal, forge:storage_blocks/obsidian, forge:plates/netherite, forge:nuggets/cobalt, forge:gears/enderium, forge:storage_blocks/raw_coal, forge:plates/nickel, forge:storage_blocks/apatite, forge:wires/cinnabar, forge:gears/netherite, forge:ingots/platinum, forge:plates/peridot, forge:rods/apatite, forge:raw_materials/cinnabar, forge:plates/emerald, forge:gems/charcoal, forge:wires/osmium, forge:dusts/peridot, forge:plates/potassium_nitrate, forge:ingots/coal_coke, forge:gears/graphite, forge:ores/constantan, forge:plates/osmium, forge:storage_blocks/raw_ruby, forge:ores/sulfur, forge:storage_blocks/fluorite, forge:wires/emerald, forge:storage_blocks/sapphire, forge:nuggets/iridium, forge:dusts/gold, forge:plates/platinum, forge:ingots/invar, forge:storage_blocks/raw_amber, forge:gems/gold, forge:plates/silver, forge:ores/cobalt, forge:wires/ruby, forge:wires/platinum, forge:gems/electrum, forge:dusts/apatite, forge:storage_blocks/raw_tungsten, forge:ingots/aeternium, forge:storage_blocks/raw_tin, forge:wires/uranium, forge:nuggets/nickel, forge:gems/nickel, forge:rods/netherite, forge:nuggets/cinnabar, forge:rods/signalum, forge:ingots/steel, forge:storage_blocks/osmium, forge:gems/graphite, forge:storage_blocks/raw_apatite, forge:nuggets/chrome, forge:rods/coal_coke, forge:ores/apatite, forge:gems/platinum, forge:plates/diamond, forge:wires/lumium, forge:storage_blocks/iridium, forge:storage_blocks/raw_brass, forge:dusts/cobalt, forge:gears/elementium, forge:rods/mithril, forge:raw_materials/bitumen, forge:rods/bitumen, forge:gems/signalum, forge:ores/electrum, forge:raw_materials/sulfur, forge:raw_materials/obsidian, forge:gems/bronze, forge:rods/cobalt, forge:ingots/charcoal, forge:ingots/tin, forge:gears/peridot, forge:wires/invar, forge:wires/chrome, forge:storage_blocks/raw_platinum, forge:gems/bitumen, forge:rods/platinum, forge:nuggets/bitumen, forge:gems/copper, forge:dusts/constantan, forge:storage_blocks/raw_chrome, forge:dusts/tungsten, forge:dusts/graphite, forge:plates/sulfur, forge:storage_blocks/silver, forge:raw_materials/nickel, forge:plates/steel, forge:gears/bronze, forge:dusts/iron, forge:storage_blocks/peridot, forge:nuggets/ruby, forge:raw_materials/sapphire, forge:ores/bronze, forge:rods/ruby, forge:ingots/elementium, forge:ingots/coal, forge:wires/peridot, forge:ingots/fluorite, forge:storage_blocks/lumium, forge:dusts/coal_coke, forge:ingots/sapphire, forge:raw_materials/fluorite, forge:nuggets/osmium, forge:ingots/iridium, forge:storage_blocks/chrome, forge:storage_blocks/raw_iridium, forge:nuggets/constantan, forge:storage_blocks/raw_mithril, forge:storage_blocks/uranium, forge:dusts/zinc, forge:gears/coal_coke, forge:ores/cinnabar, forge:storage_blocks/coal_coke, forge:plates/aeternium, forge:nuggets/lapis, forge:gems/cobalt, forge:nuggets/coal, forge:gears/uranium, forge:nuggets/aeternium, forge:nuggets/lumium, forge:gears/sapphire, forge:storage_blocks/raw_aeternium, forge:dusts/charcoal, forge:storage_blocks/ruby, forge:raw_materials/emerald, forge:nuggets/tungsten, forge:raw_materials/steel, forge:rods/coal, forge:storage_blocks/raw_signalum, forge:wires/lapis, forge:raw_materials/chrome, forge:ingots/emerald, forge:raw_materials/lead, forge:plates/tin, forge:ingots/obsidian, forge:nuggets/peridot, forge:gears/constantan, forge:rods/aeternium, forge:nuggets/graphite, forge:ores/platinum, forge:rods/zinc, forge:gems/iridium, forge:storage_blocks/amber, forge:gears/obsidian, forge:raw_materials/iridium, forge:storage_blocks/raw_sulfur, forge:wires/bitumen, forge:gears/fluorite, forge:storage_blocks/bitumen, forge:gears/steel, forge:wires/tin, forge:rods/amber, forge:ingots/bronze, forge:dusts/steel, forge:gears/charcoal, forge:gems/lead, forge:ores/signalum, forge:wires/mithril, forge:rods/bronze, forge:wires/amber, forge:wires/sulfur, forge:gems/tungsten, forge:nuggets/uranium, forge:storage_blocks/raw_electrum]
+[15März2025 14:38:12.551] [main/WARN] [AlmostUnified/]: Recipe count: 6993
+[15März2025 14:38:13.253] [main/WARN] [AlmostUnified/]: Recipe count afterwards: 6977 (done in 701.9 ms)
+[15März2025 14:38:13.301] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[15März2025 14:38:13.403] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:raboutan_sail_c_raft: com.google.gson.JsonSyntaxException: Unknown item 'nethers_exoticism:ramboutan_planks'
+[15März2025 14:38:13.405] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[15März2025 14:38:13.433] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[15März2025 14:38:13.441] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[15März2025 14:38:13.474] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:chorus_sail_craft: com.google.gson.JsonSyntaxException: Unknown item 'unusualend:chorus_nest_planks'
+[15März2025 14:38:13.474] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:jaboticaba_sail_craft: com.google.gson.JsonSyntaxException: Unknown item 'nethers_exoticism:jaboticaba_planks'
+[15März2025 14:38:13.476] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe creategoggles:module_goggle_unit: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:alloy_reinforced'
+[15März2025 14:38:13.487] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[15März2025 14:38:13.489] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[15März2025 14:38:13.520] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:copper_scaffolding_craft: com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:deleted_mod_element'
+[15März2025 14:38:13.543] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe createaddoncompatibility:tfmg/sequenced_assembly/compat-pneumaticcraft-turbine_engine as it's serializer returned null
+[15März2025 14:38:13.560] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createaddoncompatibility:tfmg/distillation/compat-crude_oil_no_naptha: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfmg:distillation'
+[15März2025 14:38:13.569] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[15März2025 14:38:13.577] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe createaddoncompatibility:pneumaticcraft/thermo_plant/compat-reinforced_pressure_tube as it's serializer returned null
+[15März2025 14:38:13.597] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:mangrove_sail_craft_backport: com.google.gson.JsonSyntaxException: Unknown item 'wildbackport:mangrove_planks'
+[15März2025 14:38:13.610] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[15März2025 14:38:13.624] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[15März2025 14:38:13.637] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createaddoncompatibility:tfmg/distillation/compat-crude_oil: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfmg:distillation'
+[15März2025 14:38:13.646] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:schematic_chair: com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:deleted_mod_element'
+[15März2025 14:38:13.661] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[15März2025 14:38:13.677] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 36 recipes
+[15März2025 14:38:13.681] [main/INFO] [com.possible_triangle.sliceanddice.SliceAndDice/]: Injecting recipes
+[15März2025 14:38:13.735] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement trading_floor:happy_jeff: Invalid criterion trigger: create:happy_jeff_builtin
+[15März2025 14:38:13.739] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement create_central_kitchen:recipes/crafting/sap_bottles_from_bucket: Unknown item id 'create_central_kitchen:sap_bucket'
+[15März2025 14:38:13.794] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement create_central_kitchen:recipes/crafting/sap_bucket_from_bottles: Unknown item id 'autumnity:sap_bottle'
+[15März2025 14:38:13.885] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement trading_floor:drop_shipper: Invalid criterion trigger: create:drop_shipper_builtin
+[15März2025 14:38:13.899] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement trading_floor:money_money_money: Invalid criterion trigger: create:money_money_money_builtin
+[15März2025 14:38:13.943] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5275 advancements
+[15März2025 14:38:13.955] [main/INFO] [rechiseled/]: Loaded 66 chiseling recipes
+[15März2025 14:38:13.956] [main/INFO] [Create cobblestone/]: Generator types cleared
+[15März2025 14:38:13.957] [main/INFO] [Create cobblestone/]: Loading generator types from datapacks
+[15März2025 14:38:13.964] [main/INFO] [Create cobblestone/]: Generator types loading done
+[15März2025 14:38:14.015] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: Missing custom armor properties entry for block copycats:copycat_door
+[15März2025 14:38:14.015] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: Missing custom armor properties entry for block copycats:copycat_iron_door
+[15März2025 14:38:19.598] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.net.http.HttpTimeoutException: request timed out
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:572) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.20.1-47.3.0.jar%23244!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.20.1-47.3.0.jar%23244!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.0.jar%23244!/:?]
+[15März2025 14:38:19.600] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.20.1
+[15März2025 14:38:19.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[15März2025 14:38:19.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[15März2025 14:38:19.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[15März2025 14:38:19.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[15März2025 14:38:20.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[15März2025 14:38:20.270] [e4mc_minecraft-init/INFO] [e4mc_minecraft/]: req: https://broker.e4mc.link/getBestRelay GET
+[15März2025 14:38:20.442] [e4mc_minecraft-init/INFO] [e4mc_minecraft/]: resp: (GET https://broker.e4mc.link/getBestRelay) 200
+[15März2025 14:38:20.444] [e4mc_minecraft-init/INFO] [e4mc_minecraft/]: using relay de
+[15März2025 14:38:20.453] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[15März2025 14:38:20.698] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[15März2025 14:38:21.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "create_main_world"
+[15März2025 14:38:21.187] [nioEventLoopGroup-2-1/INFO] [e4mc_minecraft/]: control channel open: [id: 0x18ed55dc, QuicStreamAddress{streamId=0}]
+[15März2025 14:38:21.189] [nioEventLoopGroup-2-1/INFO] [e4mc_minecraft/]: control channel write complete
+[15März2025 14:38:21.237] [nioEventLoopGroup-2-1/WARN] [e4mc_minecraft/]: e4mc running on Dedicated Server; This works, but isn't recommended as e4mc is designed for short-lived LAN servers
+[15März2025 14:38:21.237] [nioEventLoopGroup-2-1/INFO] [e4mc_minecraft/]: Domain assigned: admit-present.de.e4mc.link
+[15März2025 14:38:22.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[15März2025 14:38:23.450] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15März2025 14:38:23.456] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15März2025 14:38:23.456] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15März2025 14:38:23.682] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15März2025 14:38:24.183] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15März2025 14:38:24.682] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15März2025 14:38:24.759] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 12.0.2 Target: 12.0.2
+[15März2025 14:38:24.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trading_floor] Starting version check at https://raw.githubusercontent.com/cakeGit/Create-Trading-Floor/refs/heads/1.20.1/forge_updates.json
+[15März2025 14:38:24.862] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trading_floor] Found status: AHEAD Current: 1.1.7+forge-1.20.1 Target: null
+[15März2025 14:38:24.863] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[15März2025 14:38:24.888] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
+[15März2025 14:38:24.893] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
+[15März2025 14:38:25.184] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15März2025 14:38:25.550] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: OUTDATED Current: 3.3.0 Target: 3.4.0
+[15März2025 14:38:25.550] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Starting version check at https://raw.githubusercontent.com/copycats-plus/copycats/multiloader/update.json
+[15März2025 14:38:25.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Found status: AHEAD Current: 2.2.0+mc.1.20.1-forge Target: null
+[15März2025 14:38:25.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[15März2025 14:38:25.584] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[15März2025 14:38:25.585] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[15März2025 14:38:25.682] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
+[15März2025 14:38:26.486] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4305 ms
+[15März2025 14:38:26.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.739s)! For help, type "help"
+[15März2025 14:38:26.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Found status: BETA Current: 2.2.3 Target: 2.2.3
+[15März2025 14:38:26.672] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[15März2025 14:38:26.742] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[15März2025 14:38:26.749] [Server thread/INFO] [DragonLib/]: Starting DragonLib Network Manager (Server) worker thread...
+[15März2025 14:38:26.750] [DragonLib Network Manager (Server)/INFO] [DragonLib/]: DragonLib Network Manager (Server) worker thread has been started.
+[15März2025 14:38:26.766] [Advanced Display Data Manager/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Advanced Display Data Manager has been started.
+[15März2025 14:38:26.803] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[15März2025 14:38:26.810] [Server thread/WARN] [ModernFix/]: Dedicated server took 88.627 seconds to load
+[15März2025 14:38:26.814] [CRN Train Listener Launcher/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Train listener has been started.
+[15März2025 14:38:26.906] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.0 Target: 47.4.0
+[15März2025 14:38:26.907] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[15März2025 14:38:27.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.28 Target: null
+[15März2025 14:38:27.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[15März2025 14:38:27.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.8 Target: null
+[15März2025 14:38:27.052] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[15März2025 14:38:29.439] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[15März2025 14:38:29.440] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterf3] Starting version check at https://api.modrinth.com/updates/betterf3/forge_updates.json
+[15März2025 14:38:31.493] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterf3] Found status: UP_TO_DATE Current: 7.0.2 Target: null
+[15März2025 14:38:31.494] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createaddoncompatibility] Starting version check at https://api.modrinth.com/updates/QgrK9rtJ/forge_updates.json
+[15März2025 14:38:33.828] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createaddoncompatibility] Found status: UP_TO_DATE Current: 0.2.3 Target: null
+[15März2025 14:38:38.101] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Nief55 is 02e62e6f-4942-45ae-afff-8edd67cfdf8f
+[15März2025 14:38:40.576] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[15März2025 14:38:40.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nief55[/127.220.18.1:52521] logged in with entity id 62 at (43.655563317285974, 42.0, -896.5979349505783)
+[15März2025 14:38:40.938] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[15März2025 14:38:40.939] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[15März2025 14:38:41.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nief55 joined the game
+[15März2025 14:38:41.301] [Server thread/INFO] [Jade/]: Syncing config to Nief55 (02e62e6f-4942-45ae-afff-8edd67cfdf8f)
+[15März2025 14:38:41.968] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nief55 (18)
+[15März2025 14:38:41.974] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nief55
+[15März2025 14:41:02.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3350ms or 67 ticks behind
+[15März2025 14:41:03.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nief55 moved too quickly! -4.839543493944561,0.0,-8.907916003003947
+[15März2025 14:42:14.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Gab es grad einen großen Lag?
+[15März2025 14:42:23.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nief55> ja
+[15März2025 14:42:41.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Ja habe ich auch hier gemert, di emehory war bei 120%...
+[15März2025 14:42:52.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nief55> wow
+[15März2025 14:43:03.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Schau, das du so wenig wie möglich chunks lädst
+[15März2025 14:43:13.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] das ist der hauptfaktor
+[15März2025 14:43:25.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nief55> ah
+[15März2025 14:43:32.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nief55 has made the advancement [Not Today, Thank You]
+[15März2025 14:43:44.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ich komm in 30 min, muss nur noch automatiosin script für log upload machen
+[15März2025 14:43:50.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nief55> ok
+[15März2025 14:46:05.907] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-494, y=97, z=-880}
+[15März2025 14:46:05.907] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-490, y=97, z=-880}
+[15März2025 14:46:06.505] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-490, y=97, z=-900}
+[15März2025 14:46:06.506] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-494, y=97, z=-906}
+[15März2025 14:46:06.506] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-494, y=97, z=-908}
+[15März2025 14:46:06.506] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-490, y=97, z=-908}
+[15März2025 14:46:06.507] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-494, y=97, z=-904}
+[15März2025 14:46:06.507] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-494, y=97, z=-899}
+[15März2025 14:46:06.507] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-494, y=97, z=-901}
+[15März2025 14:46:06.508] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-490, y=97, z=-884}
+[15März2025 14:46:06.509] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-490, y=97, z=-881}
+[15März2025 14:46:06.509] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-490, y=97, z=-896}
+[15März2025 14:46:06.509] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-494, y=97, z=-892}
+[15März2025 14:46:06.509] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-490, y=97, z=-891}
+[15März2025 14:46:06.510] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-490, y=97, z=-890}
+[15März2025 14:46:06.510] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-494, y=97, z=-889}
+[15März2025 14:46:06.510] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-490, y=97, z=-889}
+[15März2025 14:46:42.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2806ms or 56 ticks behind
+[15März2025 14:46:59.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[15März2025 14:48:03.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[15März2025 14:48:26.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Simon Achtung, Caht kann gleich gespamt sein...
+[15März2025 14:48:53.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Egg] Test
+[15März2025 14:48:53.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Egg] Test
+[15März2025 14:48:53.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Egg] Test
+[15März2025 14:48:53.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Egg] Test
+[15März2025 14:48:53.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Egg] Test
+[15März2025 14:48:53.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Dandelion] Test
+[15März2025 14:48:53.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Dandelion] Test
+[15März2025 14:48:53.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Dandelion] Test
+[15März2025 14:48:53.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Egg] Test
+[15März2025 14:48:53.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Egg] Test
+[15März2025 14:48:53.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [White Wool] Test
+[15März2025 14:48:53.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Raw Mutton] Test
+[15März2025 14:48:53.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [White Wool] Test
+[15März2025 14:48:53.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Raw Mutton] Test
+[15März2025 14:48:53.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Cogwheel] Test
+[15März2025 14:48:53.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Mechanical Pump] Test
+[15März2025 14:48:53.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Egg] Test
+[15März2025 14:48:53.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Egg] Test
+[15März2025 14:48:53.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Metal Bracket] Test
+[15März2025 14:48:53.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Metal Bracket] Test
+[15März2025 14:48:53.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Metal Bracket] Test
+[15März2025 14:48:53.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Egg] Test
+[15März2025 14:48:53.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Item Vault] Test
+[15März2025 14:48:53.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Item Vault] Test
+[15März2025 14:48:53.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Item Vault] Test
+[15März2025 14:48:53.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3649ms or 72 ticks behind
+[15März2025 14:49:24.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Simon, hast du platzt im Inventar, ich muss die Items entfernen, möchte sie aber nicht löschen...
+[15März2025 14:49:39.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nief55> ne leider nicht
+[15März2025 14:49:51.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ok hast du ne kiste in der nähe?
+[15März2025 14:49:58.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nief55> nope
+[15März2025 14:50:12.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ok, sag sobalt d uhast...
+[15März2025 14:51:28.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nief55> ok jetzt
+[15März2025 14:52:09.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[15März2025 14:52:55.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 23 entities to Nief55
+[15März2025 14:53:05.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 41325ms or 826 ticks behind
+[15März2025 14:53:26.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Ok, pack die Weg in die Kiste oder so, server ist jetzt bissl flüssiger
+[15März2025 14:54:20.737] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[15März2025 14:54:20.903] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[15März2025 14:56:24.490] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3c98f88e[id=<null>,name=Nief55,properties={},legacy=false] (/127.220.18.1:33139) lost connection: Disconnected
+[15März2025 14:56:24.514] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@f92abae[id=<null>,name=Nief55,properties={},legacy=false] (/127.220.18.1:35399) lost connection: Disconnected
+[15März2025 14:56:24.515] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@29114fa4[id=<null>,name=Nief55,properties={},legacy=false] (/127.220.18.1:38571) lost connection: Disconnected
+[15März2025 14:56:26.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nief55 lost connection: Timed out
+[15März2025 14:56:26.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nief55 left the game
+[15März2025 14:56:31.413] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nief55
+[15März2025 14:56:39.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 198455ms or 3969 ticks behind
+[15März2025 14:56:48.467] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID aadbb636-7d1f-4aa0-88ff-1c025dc24826
+[15März2025 14:56:50.652] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID c3f475a0-3547-4a8a-a86f-42ec3cf0c83d
+[15März2025 14:56:51.010] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /home/server/.minecraft/./crash-reports/crash-2025-03-15_14.56.49-server.txt
+[15März2025 14:56:51.461] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Stopping train listener...
+[15März2025 14:56:52.100] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Stopping Advanced Display Data Manager...
+[15März2025 14:56:52.216] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All events have been closed.
+[15März2025 14:56:52.006] [CRN Train Listener/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Train listener has been stopped.
+[15März2025 14:56:53.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15März2025 14:56:53.078] [Advanced Display Data Manager/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Advanced Display Data Manager has been stopped.
+[15März2025 14:56:53.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15März2025 14:56:54.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
