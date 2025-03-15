@@ -24,7 +24,9 @@ function fetchStatus() {
         .then(data => {
             const status = document.querySelector('span#status_title');
             status.innerHTML = data.replace(/\n/g, '').lower();
-            status.className = data.replace(/\n/g, '').lower();
+
+            const div = document.querySelector('div.status_title')
+            status.class = data.replace(/\n/g, '').lower();
         })
         .catch(error => console.error('Error fetching status:', error));
 }
